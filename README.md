@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Myrstad
-- 👀 I’m interested in Handball, sports, videogames and programming
-- 🌱 I’m currently learning JS as a student in highschool
+- 👀 I’m interested in sports, videogames and programming
+- 🌱 I’m currently learning JS and python as a student in highschool
 - 💞️ I’m looking to collaborate on something fun ;)
 - 📫 You can't reach me at the moment...
 
