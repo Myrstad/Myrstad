@@ -7,7 +7,7 @@ Student & Web Developer
 * 🌍  I'm based in Norway
 * 🖥️  See my portfolio at [Morten Myrstad](http://mortenmyrstad.no/)
 * ✉️  You can contact me at [post@mortenmyrstad.no](mailto:post@mortenmyrstad.no)
-* 🧠  I'm learning competetive programming, c++, OOP
+* 🧠  I'm learning fullstack and devops
 * 🤝  I'm open to collaborating on open source projects
 
 ### Skills
